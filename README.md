@@ -57,7 +57,9 @@ After the data is collected and the model is trained, you can run the real-time 
 # Command to run your real-time recognition script
 # (You may need to update your script to have separate training and recognition parts)
 
-📂 File Structure
+### 📂 File Structure
+
+```text
 HandSpeak/
 ├── MP_Data/                 # Directory for collected NumPy keypoint data
 │   ├── hello/
